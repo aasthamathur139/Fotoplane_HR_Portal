@@ -46,7 +46,7 @@ Here's a complete `README.md` for your **Fotoplane HR Portal** project:
 
 | Username | Password   |
 | -------- | ---------- |
-| *N/A*    | `admin123` |
+| admin    | `admin123` |
 
 > ⚠️ You can change the password inside `app.py` for better security.
 
